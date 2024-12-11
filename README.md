@@ -1,8 +1,8 @@
-# RecyclEase  
+# Enviro
 *Making Recycling Simple, Convenient, and Rewarding*  
 
 ## Overview  
-RecyclEase is a web-based platform designed to make recycling an effortless part of everyday life. By leveraging advanced technologies like the Google Vision API, our platform identifies waste materials and connects users to local recycling solutions, promoting sustainability and reducing waste.  
+Enviro is a web-based platform designed to make recycling an effortless part of everyday life. By leveraging advanced technologies like the Google Vision API, our platform identifies waste materials and connects users to local recycling solutions, promoting sustainability and reducing waste.  
 
 ## Features  
 - *Smart Waste Detection*  
