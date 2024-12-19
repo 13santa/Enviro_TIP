@@ -22,6 +22,7 @@
 .about-us{
     margin-top: 12px;
     margin-right: 50px;
+    cursor: pointer;
 }
 .recycle{
     width: 100px;
@@ -32,6 +33,9 @@
     font-size: 500%;
     font-family: Lexend;
     font-weight: 700;
+}
+.moto-complete{
+    color: rgb(87, 151, 87);
 }
 .home-video{
     width: 1519px;
